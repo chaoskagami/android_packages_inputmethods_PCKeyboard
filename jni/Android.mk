@@ -10,6 +10,6 @@ LOCAL_SRC_FILES := \
 
 LOCAL_MODULE := libjni_pckeyboard
 
-LOCAL_MODULE_TAGS := user
+LOCAL_MODULE_TAGS := optional
 
 include $(BUILD_SHARED_LIBRARY)
